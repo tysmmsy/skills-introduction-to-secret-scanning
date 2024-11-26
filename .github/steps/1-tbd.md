@@ -33,7 +33,7 @@ Now that you have secret scanning enabled in this repository, let's commit a new
 
     ```yaml
     default:
-      aws_access_key_id: AKIAQYLPMN5HNM4OZ56B
+      aws_access_key_id: AKIAQYLPMN5HNM4OZ56Btest
       aws_secret_access_key: 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
       output: json
       region: us-east-2
